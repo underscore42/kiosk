@@ -1,0 +1,2 @@
+# kiosk
+Kiosk Status Code
